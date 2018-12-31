@@ -21,4 +21,4 @@ This repository contains the following files:
 4. Label data set with descriptive variable names
 5. From the outcome of 4, create an independent data set with average of each variabe for each activity and subject  
   Import and run this file in RStudio.
-- `tidy.txt` Output of the file, <code>run_analysis.R<code>. 
+- `tidy.txt` output of the file, `run_analysis.R`. It is a text file containing space-separated values.

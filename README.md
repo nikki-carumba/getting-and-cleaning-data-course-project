@@ -14,7 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 This repository contains the following files:
 - `README.md` provides an overview of the data set and how it was created.
 - `CodeBook.md` describes the variables, the data, and transformations performed to clean up the data
-- `run_analysis.R` contains all the code to perform in getting and cleaning data. These are the outcomes of the project: 
+- `run_analysis.R` contains all the code to perform in getting and cleaning data. These are the expected outcomes of the project: 
   1. Merge training and test sets to create one data set
   1. Extract only the mean and standard deviation measurements
   1. Extract only the mean and standard deviation measurements

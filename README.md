@@ -15,10 +15,10 @@ This repository contains the following files:
 - `README.md` provides an overview of the data set and how it was created.
 - `CodeBook.md` describes the variables, the data, and any transformations or work that you performed to clean up the data
 - `run_analysis.R` contains all the code to perform in getting and cleaning data. These are the outcomes of the project: 
-1. Merge training and test sets to create one data set
-2. Extract only the mean and standard deviation measurements
-3. Extract only the mean and standard deviation measurements
-4. Label data set with descriptive variable names
-5. From the outcome of 4, create an independent data set with average of each variabe for each activity and subject  
+  1. Merge training and test sets to create one data set
+  1. Extract only the mean and standard deviation measurements
+  1. Extract only the mean and standard deviation measurements
+  1. Label data set with descriptive variable names
+  1. From the outcome of 4, create an independent data set with average of each variabe for each activity and subject  
   Import and run this file in RStudio.
 - `tidy.txt` output of the file, `run_analysis.R`. It is a text file containing space-separated values.
